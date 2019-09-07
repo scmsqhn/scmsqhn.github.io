@@ -1,13 +1,6 @@
 --- 
 layout: blog 
-istop: true
 title: "使用解决蕴含逻辑判断和阅读理解问题的方案解决带有逻辑的分类问题"
-background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
-date:2019-9-1
-category: algorithm
-tags:
-- 算法
-- algorithm
 ---
 
 bert 分类任务 优化思路
