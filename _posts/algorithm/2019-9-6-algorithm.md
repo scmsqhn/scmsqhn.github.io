@@ -107,11 +107,11 @@ title: "NLP算法四类问题应用简介"
 
   - bert结构图
 
-  ![BERT介绍](https://www.jianshu.com/p/d7ce41b58801)
+![BERT介绍](https://www.jianshu.com/p/d7ce41b58801)
  
   - 自注意力层
 
-  ![自注意力层+RES-net](https://upload-images.jianshu.io/upload_images/14927967-2056c387bd0da3c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1112/format/webp)
+![自注意力层+RES-net](https://upload-images.jianshu.io/upload_images/14927967-2056c387bd0da3c3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1112/format/webp)
 
   - special
   ```
