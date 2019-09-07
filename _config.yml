@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "算法技术笔记"
+description:      "Algorithm"
 url:              https://scmsqhn.github.io # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "qinhaining" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
@@ -14,10 +14,10 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         algorithm算法 #书籍
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         server #旅游
     url:          /road
     external:     false
   - name:         归档
