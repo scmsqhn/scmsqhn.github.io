@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用解决蕴含逻辑判断和阅读理解问题的方案解决带有逻辑的分类问题"
-algorithm: true 
+book: true 
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
 category: 算法
 tags:
