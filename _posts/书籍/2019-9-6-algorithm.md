@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "NLP算法四类问题应用简介"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layout
 title: 新词发现验证
 ---
 
