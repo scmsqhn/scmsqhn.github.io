@@ -1,6 +1,6 @@
 ---
 layout: post
-title: algorithm_status 
+title: NLP算法四类问题应用简介
 ---
 
 当前算法状态介绍 algorithm status

@@ -1,18 +1,6 @@
 ---
 layout: blog
-istop: true
-title: "如何提升序列标注任务的效果"
-background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
-date:2019-09-07
-category: git
-tags:
-- github
-- git-crypt
-- encfs
-- gpg
-- git-remote-gcryp
-- sshfs
----
+title: 如何提升序列标注任务的效果
 
 案发地址，居住地址，户籍地址提取效果未能满足用户需求
 
